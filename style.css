@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#container{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: center;
+}
+img{
+  width:15%;
+  height:15%;
+  margin:5px;
+}
+.win{
+  font-size:120px !important;
+  color:#51a6c8 !important;
+}
+.hi{
+  margin-left:35px;
+}
